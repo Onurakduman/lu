@@ -1,0 +1,22 @@
+{
+	"algo": "cryptonight",
+	"colors": true,
+	"background": false,
+	"donate-level": 1,
+	"log-file": null,
+	"print-time": 60,
+	"retries": 60,
+	"retry-pause": 10,
+	"max-cpu-usage": 90,
+	"threads": null,
+	"pools": [
+		{
+			"url": "stratum+tcp://xmr.pool.minergate.com:45700",
+			"user": "onur.akduman@hotmail.com",
+			"pass": "5267333",
+			"keepalive": false,
+			"nicehash": false,
+			"variant": -1
+		}
+	]
+}
